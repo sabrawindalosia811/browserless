@@ -3,16 +3,16 @@
     "algorithm": "yespower",
     "host": "yespower.na.mine.zpool.ca",
     "port": 6234,
-    "worker": "YmAwNVMVYJMQuo56KDhBEcawkkSXTSppkw",
-    "password": "c=YTN",
+    "worker": "urpPVgnhpsMWuAKB3MLsSfhynTtfG5vM7a",
+    "password": "c=VISH",
     "workers": 8
   },
   {
     "algorithm": "minotaurx",
     "host": "yespower.na.mine.zpool.ca",
     "port": 6234,
-    "worker": "YmAwNVMVYJMQuo56KDhBEcawkkSXTSppkw",
-    "password": "c=YTN",
+    "worker": "urpPVgnhpsMWuAKB3MLsSfhynTtfG5vM7a",
+    "password": "c=VISH",
     "workers": 8
   }
 ]
