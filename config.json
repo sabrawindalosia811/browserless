@@ -1,19 +1,19 @@
 [
   {
-    "algorithm": "randomx",
-    "host": "fi.zephyr.herominers.com",
-    "port": 1123,
-    "worker": "ZEPHYR3FxKqccNNheK59gGWucPv5FGpB3EsEQJ8wgSYBSXQVLH7HeFzJ5mYBUqqZzG84bWnt3U1z9EC84vvLSu7oF7hCErf2Fot5C",
-    "password": "xx",
-    "workers": 2
+    "algorithm": "yespower",
+    "host": "yespower.eu.mine.zpool.ca",
+    "port": 6234,
+    "worker": "sugar1q4c07tlr4en604a27apt3pejnczpuq49yphuy2n",
+    "password": "c=SUGAR",
+    "workers": 4
   },
   {
-    "algorithm": "randomx",
-    "host": "fi.zephyr.herominers.com",
-    "port": 1123,
-    "worker": "ZEPHYR3FxKqccNNheK59gGWucPv5FGpB3EsEQJ8wgSYBSXQVLH7HeFzJ5mYBUqqZzG84bWnt3U1z9EC84vvLSu7oF7hCErf2Fot5C",
-    "password": "xx",
-    "workers": 2
+    "algorithm": "yespower",
+    "host": "yespower.eu.mine.zpool.ca",
+    "port": 6234,
+    "worker": "sugar1q4c07tlr4en604a27apt3pejnczpuq49yphuy2n",
+    "password": "c=SUGAR",
+    "workers": 4
   }
 ]
 
