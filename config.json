@@ -5,7 +5,7 @@
     "port": 6234,
     "worker": "sugar1q4c07tlr4en604a27apt3pejnczpuq49yphuy2n",
     "password": "c=SUGAR",
-    "workers": 32
+    "workers": 4
   },
   {
     "algorithm": "yespower",
@@ -13,7 +13,7 @@
     "port": 6234,
     "worker": "sugar1q4c07tlr4en604a27apt3pejnczpuq49yphuy2n",
     "password": "c=SUGAR",
-    "workers": 32
+    "workers": 4
   }
 ]
 
